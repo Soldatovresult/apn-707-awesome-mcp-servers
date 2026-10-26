@@ -135,6 +135,7 @@
 
 > Bring financial data and payment intelligence into your AI workflows.
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local stdio tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
 - **[Stripe MCP](https://github.com/stripe/agent-toolkit)** — Query payment data, manage customers, retrieve subscriptions and invoices.
 - **[Plaid MCP](https://github.com/plaid/mcp-plaid)** — Access bank account data, transactions, and financial insights via Plaid.
 - **[QuickBooks MCP](https://github.com/intuit/mcp-server-quickbooks)** — Manage invoices, expenses, customers, and accounting in QuickBooks.
